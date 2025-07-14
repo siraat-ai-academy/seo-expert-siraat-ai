@@ -90,7 +90,8 @@ You just need a **quiet moment**, a **clear purpose**, and a **repo that feels l
 
 ---
 
-⚠️ Disclaimer  
+## ⚠️ Disclaimer
+
 This repository is intended for **educational and self-development purposes only**.  
 All content has been independently written, summarized, or restructured using publicly available knowledge and AI-assisted tools.  
 
