@@ -90,10 +90,17 @@ You just need a **quiet moment**, a **clear purpose**, and a **repo that feels l
 
 ---
 
-## ⚠️ Disclaimer
+⚠️ Disclaimer  
+This repository is intended for **educational and self-development purposes only**.  
+All content has been independently written, summarized, or restructured using publicly available knowledge and AI-assisted tools.  
 
-This content is for learning and inspiration purposes only.  
-It is not affiliated with Coursera, Google, or any SEO certification body.
+While every effort has been made to ensure accuracy and clarity, this material is **not officially affiliated with any institution, certification body, or training provider**.
+
+You are welcome to **use, adapt, translate, or share** this content for personal or professional growth —  
+but please do so with integrity, attribution where needed, and a commitment to learning with purpose.
+
+**Stay curious. Stay ethical. Stay human.**
+
 
 Feel free to fork, remix, translate, or reuse this content — but always **stay honest** and **stay human**.
 
