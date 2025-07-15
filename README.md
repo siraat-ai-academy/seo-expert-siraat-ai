@@ -103,8 +103,26 @@ You just need a **quiet moment**, a **clear purpose**, and a **repo that feels l
 > — Jamalu, the whisper behind the work  
 > — **Siraat AI Academy**
 
+
 ---
 
+🔗 **Related Skill Map**
+
+If you're wondering _"Where can I actually apply these SEO skills?"_ — we've got you covered.
+
+📂 **Explore Our Companion Repo:**
+
+[70 SEO Freelancer Skills — by Siraat AI Academy](https://github.com/siraat-ai-academy/70-seo-freelancer-skills-by-siraat-ai/tree/main)
+
+🧠 This skill map lists **70 real-world SEO capabilities** — grouped, numbered, and written in human language.  
+Use it to guide your freelance services, organize your learning path, or shape your portfolio around actual value.
+
+> _"The notes in this repo are the 'how.'  
+The 70-skills repo shows you the 'where and why.'"_  
+> — Jamalu  
+> — **Siraat AI Academy**
+
+---
 
 ## ⚠️ Disclaimer
 
