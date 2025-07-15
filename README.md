@@ -119,7 +119,7 @@ Use it to guide your freelance services, organize your learning path, or shape y
 
 > _"The notes in this repo are the 'how.'  
 The 70-skills repo shows you the 'where and why.'"_  
-> — Jamalu  
+> — Jamalu, the whisper behind the work   
 > — **Siraat AI Academy**
 
 ---
