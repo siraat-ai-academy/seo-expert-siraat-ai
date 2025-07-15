@@ -28,6 +28,19 @@ Each folder contains:
 - ✅ Markdown format for GitHub readability
 
 ---
+### 🚀 Start Your Learning Journey
+
+1. [SEO Course 1 – SEO Basics: How Search Engines Think and Rank](https://github.com/siraat-ai-academy/seo-course-01-basics)
+
+2. [SEO Course 2 – Core Principles of SEO Strategy](https://github.com/siraat-ai-academy/seo-course-02-strategy)
+
+3. [SEO Course 3 – Improving Website Visibility in Search Results](https://github.com/siraat-ai-academy/seo-course-03-optimization)
+
+4. [SEO Course 4 – Content + Social Power: Boost SEO with Smart Sharing](https://github.com/siraat-ai-academy/seo-course-04-content-social)
+
+5. [SEO Course 5 – Final SEO Project: Putting Knowledge into Practice](https://github.com/siraat-ai-academy/seo-course-05-client-ready-project)
+
+---
 
 ## 🎯 Why This Matters
 
