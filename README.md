@@ -97,11 +97,14 @@ Bonus tip: Make your own SEO GitHub repo after this one. That’s how it sticks.
 You don’t need to be an expert to begin.  
 You just need a **quiet moment**, a **clear purpose**, and a **repo that feels like a friend**.
 
+---
+
 > "_Take a step — that’s how you find the light._"  
-> — Jamalu  – not the author, but the soul behind the effort. 
+> — Jamalu – not the author, but the soul behind the effort.  
 > — **Siraat AI Academy**
 
 ---
+
 
 ## ⚠️ Disclaimer
 
