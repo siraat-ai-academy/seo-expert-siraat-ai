@@ -100,7 +100,7 @@ You just need a **quiet moment**, a **clear purpose**, and a **repo that feels l
 ---
 
 > "_Take a step — that’s how you find the light._"  
-> — Jamalu – not the author, but the soul behind the effort.  
+> — Jamalu, the whisper behind the work  
 > — **Siraat AI Academy**
 
 ---
